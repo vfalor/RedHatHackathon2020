@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
+# https://kernel.org/pub/software/scm/git/docs/gitattributes.html#_end_of_line_conversion
 * text=auto
